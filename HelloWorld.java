@@ -1,6 +1,6 @@
  public class HelloWorld{
-      public statuc void main(String []args){
-           system.out.println("hello from java");
+      public static void main(String []args){
+           System.out.println("hello from java");
       }
  }
 
